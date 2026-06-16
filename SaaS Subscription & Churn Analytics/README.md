@@ -271,7 +271,7 @@ GROUP BY is_trial;
 
 Built in Power BI — connected directly from MySQL via native connector.
 
-![Dashboard Preview](Assets/Ravenstack%20Accounts.png)
+![Dashboard Preview](Ravenstack%20Accounts.png)
 
 **Visuals included:**
 - 4 KPI cards (Total Accounts, Churned, Churn Rate %, Avg MRR Churned)
